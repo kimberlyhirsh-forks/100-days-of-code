@@ -1,6 +1,22 @@
 # 100 Days Of Code - Log
 Entries are in reverse chronological order.
 
+### Day 5: April 25, Saturday
+
+**Today's Progress**: Finished applied accessibility challenges at freeCodeCamp.
+
+**Link(s) to work**
+1. [Blog post about today's progress](https://kimberlyhirsh.com/2020/04/25/todays-daysofcode-progress.html)
+
+### Day 4: April 24, Friday
+
+**Today's Progress**: Finished the Applied Visual Design challenges at freeCodeCamp and started Applied Accessibility.
+
+**Thoughts** Accessibility is another area I want to dig into more deeply later. It's so important, and I know I haven't done a good job with it in the past.
+
+**Link(s) to work**
+1. [Blog post about today's progress](https://kimberlyhirsh.com/2020/04/24/todays-daysofcode-progress.html)
+
 ### Day 3: April 23, Thursday
 
 **Today's Progress**: I started the Applied Visual Design challenges at freeCodeCamp.
