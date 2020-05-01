@@ -1,6 +1,10 @@
 # 100 Days Of Code - Log
 Entries are in reverse chronological order.
 
+### Day 8: April 30, Thursday
+
+**Today's Progress**: Completed CSS Flexbox at freeCodeCamp.
+
 ### Day 7: April 28, Tuesday
 
 **Today's Progress**: Completed Responsive Web Design Principles at freeCodeCamp.
