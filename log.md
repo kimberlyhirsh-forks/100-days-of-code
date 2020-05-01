@@ -1,9 +1,17 @@
 # 100 Days Of Code - Log
 Entries are in reverse chronological order.
 
-### Day 5: April 25, Saturday
+### Day 7: April 28, Tuesday
+
+**Today's Progress**: Completed Responsive Web Design Principles at freeCodeCamp.
+
+### Day 6: April 26, Sunday
 
 **Today's Progress**: Finished applied accessibility challenges at freeCodeCamp.
+
+### Day 5: April 25, Saturday
+
+**Today's Progress**: Started applied accessibility challenges at freeCodeCamp.
 
 **Link(s) to work**
 1. [Blog post about today's progress](https://kimberlyhirsh.com/2020/04/25/todays-daysofcode-progress.html)
