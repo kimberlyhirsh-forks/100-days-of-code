@@ -1,6 +1,19 @@
 # 100 Days Of Code - Log
 Entries are in reverse chronological order.
 
+### Day 10: May 4, Monday
+
+**Today's Progress**: Completed the [Tribute Page Responsive Web Design Project](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-tribute-page) at freeCodeCamp.
+
+**Thoughts**: It feels good to really make a thing rather than just do an exercise, even if it's something little like this. And it also feels good to look at the user stories and think, "Oh right. I know how to do that." There were a couple of things I had to go back to some reference materials to remember how to do, but overall I'm very pleased with how I did this.
+
+**Link(s) to work**
+1. [Tifa Lockhart Tribute Page](https://codepen.io/kimberlyhirsh/full/qBOpbqv)
+
+### Day 9: May 1, Friday
+
+**Today's Progress**: Completed CSS Grid at freeCodeCamp.
+
 ### Day 8: April 30, Thursday
 
 **Today's Progress**: Completed CSS Flexbox at freeCodeCamp.
