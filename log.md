@@ -1,6 +1,14 @@
 # 100 Days Of Code - Log
 Entries are in reverse chronological order.
 
+### Day 13: May 10, Sunday
+**Today's Progress**: Completed the [Technical Documentation Page Project]() at freeCodeCamp.
+
+**Thoughts**: Again, it feels good to really get into the code and poke around and problem-solve. I definitely will be digging deeper into CSS Flexbox and CSS Grid, which I feel I'm only beginning to scratch the surface of. (Here's a challenge to myself to use CSS Grid more for the next project.)
+
+**Link(s) to work**:
+1. [Technical Documentation Page](https://codepen.io/kimberlyhirsh/full/rNOvKbo)
+
 ### Day 12: May 9, Saturday
 **Today's Progress**: Completed the [Product Landing Page Project](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-product-landing-page) at freeCodeCamp.
 
