@@ -1,6 +1,14 @@
 # 100 Days Of Code - Log
 Entries are in reverse chronological order.
 
+### Day 12: May 9, Saturday
+**Today's Progress**: Completed the [Product Landing Page Project](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-product-landing-page) at freeCodeCamp.
+
+**Thoughts**: It felt really good to dig into this and to make the CSS do what I want it to do. Like old times. Took a long time, but I'm very pleased with the result. I'm deliberately designing mobile-first, so as often as possible the media queries are actually for larger screens rather than smaller was.
+
+**Link(s) to work**
+1. [Product Landing Page](https://codepen.io/kimberlyhirsh/full/oNjdYrj)
+
 ### Day 11: May 6, Wednesday
 
 **Today's Progress**: Completed the [Survey Form Responsive Web Design Project](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-survey-form) at freeCodeCamp.
