@@ -1,6 +1,14 @@
 # 100 Days Of Code - Log
 Entries are in reverse chronological order.
 
+### Day 15: May 12, Tuesday
+**Today's Progress**: Finished the [Personal Portfolio Project](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-personal-portfolio-webpage) at freeCodeCamp. Achieved fCC Responsive Web Design certification.
+
+**Thoughts**: As always, very satisfying to figure out problems and make things work and look the way I want.
+
+**Link(s) to work**:
+1. [Personal Portfolio Page](https://codepen.io/kimberlyhirsh/full/RwWJZjB)
+
 ### Day 14: May 11, Monday
 **Today's Progress**: Started the [Personal Portfolio Project](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-personal-portfolio-webpage) at freeCodeCamp.
 
