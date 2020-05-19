@@ -1,6 +1,9 @@
 # 100 Days Of Code - Log
 Entries are in reverse chronological order.
 
+### Day 16: May 19, Tuesday
+**Today's Progress**: Started the Basic JavaScript challenges at freeCodeCamp.
+
 ### Day 15: May 12, Tuesday
 **Today's Progress**: Finished the [Personal Portfolio Project](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-personal-portfolio-webpage) at freeCodeCamp. Achieved fCC Responsive Web Design certification.
 
