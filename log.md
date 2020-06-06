@@ -1,6 +1,11 @@
 # 100 Days Of Code - Log
 Entries are in reverse chronological order.
 
+### Day 17: June 6, Saturday
+**Today's Progress**: Continued work on the Basic JavaScript challenges at freeCodeCamp.
+
+**Thoughts**: I'm clearly not going for 100 consecutive days here, but I decided it would be better to keep on rather than start over.
+
 ### Day 16: May 19, Tuesday
 **Today's Progress**: Started the Basic JavaScript challenges at freeCodeCamp.
 
