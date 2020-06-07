@@ -1,6 +1,11 @@
 # 100 Days Of Code - Log
 Entries are in reverse chronological order.
 
+### Day 18: June 7, Sunday
+**Today's Progress**: I'm trying the SkillCrush Free Bootcamp. I finished their HTML Merit Badge.
+
+**Thoughts**: I'm trying to find a learning platform that works really well for me. I like freeCodeCamp, but I really want more thorough explanations of the things I'm doing.
+
 ### Day 17: June 6, Saturday
 **Today's Progress**: Continued work on the Basic JavaScript challenges at freeCodeCamp.
 
